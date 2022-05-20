@@ -3,7 +3,8 @@
 ## 使用方法
 粉岛请使用json源文件链接导入
 - [json源文件](https://raw.githubusercontent.com/tiamed/bog-slang/master/build/main.json)
-- [json源文件 备用镜像](https://cdn.jsdelivr.net/gh/tiamed/bog-slang@master/build/main.json)
+- [json源文件 备用镜像1](https://gh.api.99988866.xyz/https://raw.githubusercontent.com/tiamed/bog-slang/master/build/main.json)
+- [json源文件 备用镜像2](https://cdn.jsdelivr.net/gh/tiamed/bog-slang@master/build/main.json)
 - [js文件](https://github.com/tiamed/bog-slang/blob/master/build/main.js)
 
 ## 新增语录
