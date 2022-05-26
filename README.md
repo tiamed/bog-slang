@@ -1,10 +1,18 @@
 # bog岛加载语录
 
 ## 使用方法
-粉岛请使用json源文件链接导入
-- [json源文件 github proxy源 (国内推荐)](https://gh.api.99988866.xyz/https://raw.githubusercontent.com/tiamed/bog-slang/master/build/main.json)
-- [json源文件 github源](https://raw.githubusercontent.com/tiamed/bog-slang/master/build/main.json)
-- [json源文件 jsdelivr源](https://cdn.jsdelivr.net/gh/tiamed/bog-slang@master/build/main.json)
+粉岛用户请在 通用设置->加载语录设置 填写 `json源文件链接` 导入
+
+## 文件
+- json
+
+  | json源 | 地址  |
+  | --- | --- |
+  | github raw | https://raw.githubusercontent.com/tiamed/bog-slang/master/build/main.json |
+  | ghproxy.futils.com | https://ghproxy.futils.com/https://github.com/tiamed/bog-slang/blob/master/build/main.json |
+  | gh.api.99988866.xyz | https://gh.api.99988866.xyz/https://raw.githubusercontent.com/tiamed/bog-slang/master/build/main.json |
+  | jsdelivr | https://cdn.jsdelivr.net/gh/tiamed/bog-slang@master/build/main.json |
+
 - [js文件](https://github.com/tiamed/bog-slang/blob/master/build/main.js)
 
 ## 新增语录
